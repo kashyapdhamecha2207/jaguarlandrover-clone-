@@ -1,0 +1,41 @@
+* {
+    margin: 0%;
+    padding: 0%;
+    box-sizzing: border-box;
+}
+
+html,
+body {
+    height: 100%;
+    width: 100%
+}
+
+#header {
+    height: 72px;
+    width: 100%;
+    display: flex;
+    background-color: white;
+    align-items: center;
+    justify-content: center;
+}
+
+.name {
+    padding: 0px 16px;
+    font-size: 18px;
+}
+
+.page1 {
+    height: 100%;
+    width: 100%;
+    background-color: black;
+}
+
+.name2 {
+    padding: 0px 16px;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+
+
+
